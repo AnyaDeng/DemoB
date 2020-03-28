@@ -1,0 +1,22 @@
+{
+  "name": "DemoB",
+  "version": "0.1.0",
+  "summary": "A short description of DemoB.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/AnyaDeng/DemoB",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "AnyaDeng": "sd.dengxiangjiu@bhfae.com"
+  },
+  "source": {
+    "git": "https://github.com/AnyaDeng/DemoB.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "DemoB/Classes/**/*"
+}
